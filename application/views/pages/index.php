@@ -190,6 +190,7 @@
     <img src="<?php echo base_url('assets/logos/KQ.png') ?>" class="images1" />
     <img src="<?php echo base_url('assets/logos/prim.png') ?>" class="images1" />
     <img src="<?php echo base_url('assets/logos/nor.png') ?>" class="images1" />
+    <img src="<?php echo base_url('assets/logos/sani.png') ?>" class="images1" />
 
 
 </div>
